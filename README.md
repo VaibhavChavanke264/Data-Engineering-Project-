@@ -16,4 +16,4 @@
 5. create glue job with code provided in file (spotifygluejob.py)
 6. create AWS lambda and event bridge with provided lambda script(AWSlambdafunction.py):
 
-7. 
+7. Create Airflow dag to upload csv file to S3 bucket.
